@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-category" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-category/fsr-category-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-category/fsr-category-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-expense" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-expense/fsr-expense-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-expense/fsr-expense-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-home" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-home/fsr-home-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-home/fsr-home-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-income" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-income/fsr-income-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-income/fsr-income-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fsr-web" charset="UTF-8" />
+  </component>
+</project>

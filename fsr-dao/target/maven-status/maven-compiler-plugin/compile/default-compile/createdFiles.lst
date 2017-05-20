@@ -1,0 +1,17 @@
+com\fsr\domain\Category.class
+com\fsr\dto\IncomeDTO.class
+com\fsr\repository\mybatis\ExpenseMapper.class
+com\fsr\dto\Error.class
+com\fsr\domain\Expense.class
+com\fsr\domain\Income.class
+com\fsr\repository\IncomeRepository.class
+com\fsr\repository\HomeRepository.class
+com\fsr\repository\mybatis\HomeMapper.class
+com\fsr\repository\mybatis\IncomeMapper.class
+com\fsr\dto\StatusResult.class
+com\fsr\domain\Home.class
+com\fsr\dto\ExpenseDTO.class
+com\fsr\dto\PaginatedResult.class
+com\fsr\repository\mybatis\CategoryMapper.class
+com\fsr\repository\CategoryRepository.class
+com\fsr\repository\ExpenseRepository.class

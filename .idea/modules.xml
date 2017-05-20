@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FriShipRoom.iml" filepath="$PROJECT_DIR$/FriShipRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-category/fsr-category.iml" filepath="$PROJECT_DIR$/fsr-category/fsr-category.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-category/fsr-category-api/fsr-category-api.iml" filepath="$PROJECT_DIR$/fsr-category/fsr-category-api/fsr-category-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-category/fsr-category-service/fsr-category-service.iml" filepath="$PROJECT_DIR$/fsr-category/fsr-category-service/fsr-category-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-common/fsr-common.iml" filepath="$PROJECT_DIR$/fsr-common/fsr-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-dao/fsr-dao.iml" filepath="$PROJECT_DIR$/fsr-dao/fsr-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-expense/fsr-expense.iml" filepath="$PROJECT_DIR$/fsr-expense/fsr-expense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-expense/fsr-expense-api/fsr-expense-api.iml" filepath="$PROJECT_DIR$/fsr-expense/fsr-expense-api/fsr-expense-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-expense/fsr-expense-service/fsr-expense-service.iml" filepath="$PROJECT_DIR$/fsr-expense/fsr-expense-service/fsr-expense-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-home/fsr-home.iml" filepath="$PROJECT_DIR$/fsr-home/fsr-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-home/fsr-home-api/fsr-home-api.iml" filepath="$PROJECT_DIR$/fsr-home/fsr-home-api/fsr-home-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-home/fsr-home-service/fsr-home-service.iml" filepath="$PROJECT_DIR$/fsr-home/fsr-home-service/fsr-home-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-income/fsr-income.iml" filepath="$PROJECT_DIR$/fsr-income/fsr-income.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-income/fsr-income-api/fsr-income-api.iml" filepath="$PROJECT_DIR$/fsr-income/fsr-income-api/fsr-income-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-income/fsr-income-service/fsr-income-service.iml" filepath="$PROJECT_DIR$/fsr-income/fsr-income-service/fsr-income-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-service/fsr-service.iml" filepath="$PROJECT_DIR$/fsr-service/fsr-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-web/fsr-web.iml" filepath="$PROJECT_DIR$/fsr-web/fsr-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fsr-expense/ss.iml" filepath="$PROJECT_DIR$/fsr-expense/ss.iml" />
+    </modules>
+  </component>
+</project>
